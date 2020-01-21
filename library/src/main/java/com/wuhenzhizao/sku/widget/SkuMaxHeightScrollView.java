@@ -12,6 +12,8 @@ import com.wuhenzhizao.sku.utils.ScreenUtils;
  * Sku Item ScrollView
  * <p>
  * 解决Sku过多时，选择界面铺满全屏的问题
+ *
+ * sca: 设置最小高度，最大高度。
  * <p>
  * Created by wuhenzhizao on 15/12/11.
  */

@@ -1,0 +1,1536 @@
+{
+  "code": 100,
+  "msg": "成功",
+  "data": {
+    "product": {
+      "productId": 137,
+      "productName": "时尚风衣",
+      "productType": null,
+      "productAd": "时尚设计",
+      "productImg": null,
+      "productSku": null,
+      "productDescription": "",
+      "productStock": 9999,
+      "productPrice": 395.00,
+      "productActivityPrice": null,
+      "orderProductActivityPrice": null,
+      "atoshiGiftRatio": 0.710,
+      "givenCalculatePower": 280.4,
+      "status": 1,
+      "productDescriptionUrl": "https://share.atoshi.cn/?from=groupmessage#/detailimg",
+      "sort": 34,
+      "newSort": 49,
+      "greightTemplateId": 26,
+      "deliverType": null,
+      "isTax": null,
+      "taxRate": null,
+      "mall": 3,
+      "productSortId": 61
+    },
+    "productImgs": [
+      {
+        "productImgId": 7143,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productImg": "oss7652029459883341.JPG",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652029459883341.JPG"
+      },
+      {
+        "productImgId": 7144,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productImg": "oss7652033301048815.JPG",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652033301048815.JPG"
+      },
+      {
+        "productImgId": 7145,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productImg": "oss7652035633305911.JPG",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652035633305911.JPG"
+      },
+      {
+        "productImgId": 7146,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productImg": "oss7652038331634710.JPG",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652038331634710.JPG"
+      },
+      {
+        "productImgId": 7147,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productImg": "oss7652042436764015.JPG",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652042436764015.JPG"
+      }
+    ],
+    "productDescriptionImgs": [
+      {
+        "productDescriptionImgId": 12785,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652054081101897.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652054081101897.jpg"
+      },
+      {
+        "productDescriptionImgId": 12786,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652056897135375.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652056897135375.jpg"
+      },
+      {
+        "productDescriptionImgId": 12787,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652059271188207.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652059271188207.jpg"
+      },
+      {
+        "productDescriptionImgId": 12788,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652061826573690.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652061826573690.jpg"
+      },
+      {
+        "productDescriptionImgId": 12789,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652064415313178.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652064415313178.jpg"
+      },
+      {
+        "productDescriptionImgId": 12790,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652066833983142.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652066833983142.jpg"
+      },
+      {
+        "productDescriptionImgId": 12791,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652086852460445.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652086852460445.jpg"
+      },
+      {
+        "productDescriptionImgId": 12792,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652091445717154.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652091445717154.jpg"
+      },
+      {
+        "productDescriptionImgId": 12793,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652094844445270.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652094844445270.jpg"
+      },
+      {
+        "productDescriptionImgId": 12794,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652097207063301.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652097207063301.jpg"
+      },
+      {
+        "productDescriptionImgId": 12795,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652099294546278.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652099294546278.jpg"
+      },
+      {
+        "productDescriptionImgId": 12796,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652101499264322.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652101499264322.jpg"
+      },
+      {
+        "productDescriptionImgId": 12797,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652103842183227.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652103842183227.jpg"
+      },
+      {
+        "productDescriptionImgId": 12798,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652107594229196.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652107594229196.jpg"
+      },
+      {
+        "productDescriptionImgId": 12799,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652109985342490.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652109985342490.jpg"
+      },
+      {
+        "productDescriptionImgId": 12800,
+        "productId": 137,
+        "addTime": "2019-10-28T16:03:34",
+        "productDescriptionImg": "oss7652112155190374.jpg",
+        "productImgUrl": "https://video.atoshi.cn/ossImg/oss7652112155190374.jpg"
+      }
+    ],
+    "attrList": [
+      {
+        "attr": {
+          "productAttrId": 138,
+          "productId": 137,
+          "attrName": "颜色",
+          "editTime": "2019-09-24T11:23:21"
+        },
+        "attrValueList": [
+          {
+            "attrValueId": 326,
+            "productAttrId": 138,
+            "attrValueName": "深蓝",
+            "editTime": "2019-09-24T11:23:21"
+          },
+          {
+            "attrValueId": 327,
+            "productAttrId": 138,
+            "attrValueName": "卡其",
+            "editTime": "2019-09-24T11:23:27"
+          },
+          {
+            "attrValueId": 328,
+            "productAttrId": 138,
+            "attrValueName": "军绿",
+            "editTime": "2019-09-24T11:23:35"
+          },
+          {
+            "attrValueId": 329,
+            "productAttrId": 138,
+            "attrValueName": "黑色",
+            "editTime": "2019-09-24T11:23:41"
+          }
+        ]
+      },
+      {
+        "attr": {
+          "productAttrId": 139,
+          "productId": 137,
+          "attrName": "尺码",
+          "editTime": "2019-09-24T11:23:52"
+        },
+        "attrValueList": [
+          {
+            "attrValueId": 330,
+            "productAttrId": 139,
+            "attrValueName": "M",
+            "editTime": "2019-09-24T11:23:52"
+          },
+          {
+            "attrValueId": 331,
+            "productAttrId": 139,
+            "attrValueName": "L",
+            "editTime": "2019-09-24T11:24:10"
+          },
+          {
+            "attrValueId": 332,
+            "productAttrId": 139,
+            "attrValueName": "XL",
+            "editTime": "2019-09-24T11:24:24"
+          },
+          {
+            "attrValueId": 333,
+            "productAttrId": 139,
+            "attrValueName": "2XL",
+            "editTime": "2019-09-24T11:24:30"
+          },
+          {
+            "attrValueId": 334,
+            "productAttrId": 139,
+            "attrValueName": "3XL",
+            "editTime": "2019-09-24T11:24:35"
+          },
+          {
+            "attrValueId": 335,
+            "productAttrId": 139,
+            "attrValueName": "4XL",
+            "editTime": "2019-09-24T11:24:41"
+          },
+          {
+            "attrValueId": 336,
+            "productAttrId": 139,
+            "attrValueName": "5XL",
+            "editTime": "2019-09-24T11:24:46"
+          }
+        ]
+      }
+    ],
+    "skuList": [
+      {
+        "sku": {
+          "skuId": 441,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:25:31",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652320529025971.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9902,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 326,
+              "productAttrId": 138,
+              "attrValueName": "深蓝",
+              "editTime": "2019-09-24T11:23:21"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 330,
+              "productAttrId": 139,
+              "attrValueName": "M",
+              "editTime": "2019-09-24T11:23:52"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 442,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:25:52",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652343286420189.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9845,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 326,
+              "productAttrId": 138,
+              "attrValueName": "深蓝",
+              "editTime": "2019-09-24T11:23:21"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 331,
+              "productAttrId": 139,
+              "attrValueName": "L",
+              "editTime": "2019-09-24T11:24:10"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 443,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:26:13",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652363492157276.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9828,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 326,
+              "productAttrId": 138,
+              "attrValueName": "深蓝",
+              "editTime": "2019-09-24T11:23:21"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 332,
+              "productAttrId": 139,
+              "attrValueName": "XL",
+              "editTime": "2019-09-24T11:24:24"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 444,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:27:07",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652402636135052.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9791,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 326,
+              "productAttrId": 138,
+              "attrValueName": "深蓝",
+              "editTime": "2019-09-24T11:23:21"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 333,
+              "productAttrId": 139,
+              "attrValueName": "2XL",
+              "editTime": "2019-09-24T11:24:30"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 445,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:29:27",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652558256584644.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9843,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 326,
+              "productAttrId": 138,
+              "attrValueName": "深蓝",
+              "editTime": "2019-09-24T11:23:21"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 334,
+              "productAttrId": 139,
+              "attrValueName": "3XL",
+              "editTime": "2019-09-24T11:24:35"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 446,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:29:49",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652579949730800.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9930,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 326,
+              "productAttrId": 138,
+              "attrValueName": "深蓝",
+              "editTime": "2019-09-24T11:23:21"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 335,
+              "productAttrId": 139,
+              "attrValueName": "4XL",
+              "editTime": "2019-09-24T11:24:41"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 447,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:30:10",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652600175899197.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9960,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 326,
+              "productAttrId": 138,
+              "attrValueName": "深蓝",
+              "editTime": "2019-09-24T11:23:21"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 336,
+              "productAttrId": 139,
+              "attrValueName": "5XL",
+              "editTime": "2019-09-24T11:24:46"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 448,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:30:28",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652618979907761.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9968,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 327,
+              "productAttrId": 138,
+              "attrValueName": "卡其",
+              "editTime": "2019-09-24T11:23:27"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 330,
+              "productAttrId": 139,
+              "attrValueName": "M",
+              "editTime": "2019-09-24T11:23:52"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 449,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:30:50",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652641367305343.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9909,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 327,
+              "productAttrId": 138,
+              "attrValueName": "卡其",
+              "editTime": "2019-09-24T11:23:27"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 331,
+              "productAttrId": 139,
+              "attrValueName": "L",
+              "editTime": "2019-09-24T11:24:10"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 450,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:31:26",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652676708237833.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9912,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 327,
+              "productAttrId": 138,
+              "attrValueName": "卡其",
+              "editTime": "2019-09-24T11:23:27"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 332,
+              "productAttrId": 139,
+              "attrValueName": "XL",
+              "editTime": "2019-09-24T11:24:24"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 451,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:31:50",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652701028241166.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9938,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 327,
+              "productAttrId": 138,
+              "attrValueName": "卡其",
+              "editTime": "2019-09-24T11:23:27"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 333,
+              "productAttrId": 139,
+              "attrValueName": "2XL",
+              "editTime": "2019-09-24T11:24:30"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 452,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:32:14",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652725140272617.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9942,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 327,
+              "productAttrId": 138,
+              "attrValueName": "卡其",
+              "editTime": "2019-09-24T11:23:27"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 334,
+              "productAttrId": 139,
+              "attrValueName": "3XL",
+              "editTime": "2019-09-24T11:24:35"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 453,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:32:34",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652744551614536.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9978,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 327,
+              "productAttrId": 138,
+              "attrValueName": "卡其",
+              "editTime": "2019-09-24T11:23:27"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 335,
+              "productAttrId": 139,
+              "attrValueName": "4XL",
+              "editTime": "2019-09-24T11:24:41"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 454,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:32:55",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652766012241751.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9966,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 327,
+              "productAttrId": 138,
+              "attrValueName": "卡其",
+              "editTime": "2019-09-24T11:23:27"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 336,
+              "productAttrId": 139,
+              "attrValueName": "5XL",
+              "editTime": "2019-09-24T11:24:46"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 455,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:33:28",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652798750559064.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9940,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 328,
+              "productAttrId": 138,
+              "attrValueName": "军绿",
+              "editTime": "2019-09-24T11:23:35"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 330,
+              "productAttrId": 139,
+              "attrValueName": "M",
+              "editTime": "2019-09-24T11:23:52"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 456,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:33:48",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652819033698349.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9883,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 328,
+              "productAttrId": 138,
+              "attrValueName": "军绿",
+              "editTime": "2019-09-24T11:23:35"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 331,
+              "productAttrId": 139,
+              "attrValueName": "L",
+              "editTime": "2019-09-24T11:24:10"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 457,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:34:10",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652840607160966.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9861,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 328,
+              "productAttrId": 138,
+              "attrValueName": "军绿",
+              "editTime": "2019-09-24T11:23:35"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 332,
+              "productAttrId": 139,
+              "attrValueName": "XL",
+              "editTime": "2019-09-24T11:24:24"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 458,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:34:29",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652859774335224.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9885,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 328,
+              "productAttrId": 138,
+              "attrValueName": "军绿",
+              "editTime": "2019-09-24T11:23:35"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 333,
+              "productAttrId": 139,
+              "attrValueName": "2XL",
+              "editTime": "2019-09-24T11:24:30"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 459,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:35:13",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652903861156179.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9898,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 328,
+              "productAttrId": 138,
+              "attrValueName": "军绿",
+              "editTime": "2019-09-24T11:23:35"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 334,
+              "productAttrId": 139,
+              "attrValueName": "3XL",
+              "editTime": "2019-09-24T11:24:35"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 460,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:35:34",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652924692639083.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9950,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 328,
+              "productAttrId": 138,
+              "attrValueName": "军绿",
+              "editTime": "2019-09-24T11:23:35"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 335,
+              "productAttrId": 139,
+              "attrValueName": "4XL",
+              "editTime": "2019-09-24T11:24:41"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 461,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:35:53",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652944020915367.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9951,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 328,
+              "productAttrId": 138,
+              "attrValueName": "军绿",
+              "editTime": "2019-09-24T11:23:35"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 336,
+              "productAttrId": 139,
+              "attrValueName": "5XL",
+              "editTime": "2019-09-24T11:24:46"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 462,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:36:17",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652967897566496.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9906,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 329,
+              "productAttrId": 138,
+              "attrValueName": "黑色",
+              "editTime": "2019-09-24T11:23:41"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 330,
+              "productAttrId": 139,
+              "attrValueName": "M",
+              "editTime": "2019-09-24T11:23:52"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 463,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:36:35",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7652986507628177.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9784,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 329,
+              "productAttrId": 138,
+              "attrValueName": "黑色",
+              "editTime": "2019-09-24T11:23:41"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 331,
+              "productAttrId": 139,
+              "attrValueName": "L",
+              "editTime": "2019-09-24T11:24:10"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 464,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:36:54",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7653005118588638.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9619,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 329,
+              "productAttrId": 138,
+              "attrValueName": "黑色",
+              "editTime": "2019-09-24T11:23:41"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 332,
+              "productAttrId": 139,
+              "attrValueName": "XL",
+              "editTime": "2019-09-24T11:24:24"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 465,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:37:39",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7653050087113101.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9895,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 329,
+              "productAttrId": 138,
+              "attrValueName": "黑色",
+              "editTime": "2019-09-24T11:23:41"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 333,
+              "productAttrId": 139,
+              "attrValueName": "2XL",
+              "editTime": "2019-09-24T11:24:30"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 466,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:38:03",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7653074145149118.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9687,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 329,
+              "productAttrId": 138,
+              "attrValueName": "黑色",
+              "editTime": "2019-09-24T11:23:41"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 334,
+              "productAttrId": 139,
+              "attrValueName": "3XL",
+              "editTime": "2019-09-24T11:24:35"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 467,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:38:25",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7653096328109469.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9835,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 329,
+              "productAttrId": 138,
+              "attrValueName": "黑色",
+              "editTime": "2019-09-24T11:23:41"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 335,
+              "productAttrId": 139,
+              "attrValueName": "4XL",
+              "editTime": "2019-09-24T11:24:41"
+            }
+          }
+        ]
+      },
+      {
+        "sku": {
+          "skuId": 468,
+          "skuPrice": 395.00,
+          "editTime": "2019-09-24T11:38:44",
+          "givenAtoshi": 0.710,
+          "givenCalculatePower": 280.4,
+          "productId": 137,
+          "skuImg": "https://video.atoshi.cn/ossImg/oss7653115154667412.JPG",
+          "skuType": "件",
+          "skuCost": 115.00,
+          "skuStock": 9916,
+          "teamAwardRatio": 0.71
+        },
+        "attr_valueMapList": [
+          {
+            "attr": {
+              "productAttrId": 138,
+              "productId": 137,
+              "attrName": "颜色",
+              "editTime": "2019-09-24T11:23:21"
+            },
+            "value": {
+              "attrValueId": 329,
+              "productAttrId": 138,
+              "attrValueName": "黑色",
+              "editTime": "2019-09-24T11:23:41"
+            }
+          },
+          {
+            "attr": {
+              "productAttrId": 139,
+              "productId": 137,
+              "attrName": "尺码",
+              "editTime": "2019-09-24T11:23:52"
+            },
+            "value": {
+              "attrValueId": 336,
+              "productAttrId": 139,
+              "attrValueName": "5XL",
+              "editTime": "2019-09-24T11:24:46"
+            }
+          }
+        ]
+      }
+    ],
+    "productVideoUrlByProductId": null,
+    "productDescriptionUrl": "https://share.atoshi.cn/?from=groupmessage#/detailimg",
+    "productUrlList": [],
+    "isContain": 0
+  }
+}

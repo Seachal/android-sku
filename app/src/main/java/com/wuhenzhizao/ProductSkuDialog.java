@@ -24,7 +24,6 @@ import com.wuhenzhizao.sku.bean.Sku;
 import com.wuhenzhizao.sku.bean.SkuAttribute;
 import com.wuhenzhizao.sku.view.OnSkuListener;
 import com.wuhenzhizao.titlebar.utils.AppUtils;
-import com.wuhenzhizao.titlebar.utils.KeyboardConflictCompat;
 import com.wuhenzhizao.utils.NumberUtils;
 
 import java.util.List;
@@ -202,6 +201,7 @@ public class ProductSkuDialog extends Dialog {
     private void updateSkuData() {
         binding.scrollSkuList.setSkuList(product.getSkus());
 
+//        sca:获取第一个
         Sku firstSku = product.getSkus().get(0);
         if (firstSku.getStockQuantity() > 0) {
             selectedSku = firstSku;

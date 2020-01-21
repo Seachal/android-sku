@@ -294,6 +294,13 @@ public class SkuSelectScrollView extends SkuMaxHeightScrollView implements SkuIt
                 && previousAttribute.getValue().equals(nextAttribute.getValue());
     }
 
+
+    /**
+     *
+     * @param position
+     * @param selected
+     * @param attribute
+     */
     @Override
     public void onSelect(int position, boolean selected, SkuAttribute attribute) {
         if (selected) {

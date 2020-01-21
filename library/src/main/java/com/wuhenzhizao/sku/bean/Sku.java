@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * Created by wuhenzhizao on 2017/3/6.
+ *
+ *
  */
 public class Sku implements Parcelable {
     private String id;
@@ -94,6 +96,12 @@ public class Sku implements Parcelable {
         return 0;
     }
 
+
+    /**
+     * 序列化
+     * @param dest
+     * @param flags
+     */
     @Override
     public void writeToParcel(Parcel dest, int flags) {
         dest.writeString(this.id);

@@ -2,6 +2,7 @@
 <layout>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="bottom">
@@ -32,10 +33,10 @@
                             android:id="@+id/ib_sku_close"
                             android:layout_width="35dp"
                             android:layout_height="35dp"
-                            android:layout_alignParentRight="true"
                             android:layout_alignParentTop="true"
-                            android:layout_marginRight="5dp"
+                            android:layout_alignParentRight="true"
                             android:layout_marginTop="5dp"
+                            android:layout_marginRight="5dp"
                             android:background="@drawable/product_sku_close_selector"
                             android:padding="10dp"
                             android:scaleType="centerInside"
@@ -46,21 +47,22 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_alignParentBottom="true"
-                            android:layout_marginBottom="3dp"
                             android:layout_marginRight="15dp"
+                            android:layout_marginBottom="3dp"
                             android:ellipsize="end"
                             android:includeFontPadding="false"
                             android:lines="1"
                             android:textColor="@color/comm_text_gray"
-                            android:textSize="14dp" />
+                            android:textSize="14dp"
+                            tools:text="已选：绿色 s" />
 
                         <LinearLayout
                             android:id="@+id/ll_sku_price"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:layout_above="@id/tv_sku_info"
-                            android:layout_marginBottom="5dp"
                             android:layout_marginRight="15dp"
+                            android:layout_marginBottom="5dp"
                             android:gravity="bottom"
                             android:orientation="horizontal">
 
@@ -72,7 +74,8 @@
                                 android:gravity="bottom"
                                 android:includeFontPadding="false"
                                 android:textColor="@color/comm_price"
-                                android:textSize="23dp" />
+                                android:textSize="23dp"
+                                tools:text="￥258.00" />
 
                             <TextView
                                 android:id="@+id/tv_sku_selling_price_unit"
@@ -80,7 +83,8 @@
                                 android:layout_height="wrap_content"
                                 android:layout_marginLeft="5dp"
                                 android:textColor="@color/comm_text_gray"
-                                android:textSize="12dp" />
+                                android:textSize="12dp"
+                                tools:text="/件" />
                         </LinearLayout>
                     </RelativeLayout>
 
@@ -88,10 +92,12 @@
                         android:layout_width="match_parent"
                         android:layout_height="1px"
                         android:layout_marginLeft="15dp"
-                        android:layout_marginRight="15dp"
                         android:layout_marginTop="10dp"
+                        android:layout_marginRight="15dp"
                         android:background="@color/comm_line" />
 
+
+                    <!--                    颜色、尺码 等信息-->
                     <com.wuhenzhizao.sku.view.SkuSelectScrollView
                         android:id="@+id/scroll_sku_list"
                         android:layout_width="match_parent"
@@ -121,7 +127,8 @@
                             android:layout_marginLeft="5dp"
                             android:layout_toRightOf="@id/tv_sku_quantity_label"
                             android:textColor="@color/comm_text_gray"
-                            android:textSize="11dp" />
+                            android:textSize="11dp"
+                            tools:text="(库存 260)" />
 
                         <LinearLayout
                             android:layout_width="wrap_content"
@@ -156,9 +163,9 @@
                                 android:gravity="center"
                                 android:imeOptions="actionDone"
                                 android:inputType="number"
+                                android:maxWidth="100dp"
                                 android:maxLength="5"
                                 android:maxLines="1"
-                                android:maxWidth="100dp"
                                 android:minWidth="21dp"
                                 android:text="1"
                                 android:textColor="@color/comm_text_gray_dark"
@@ -196,7 +203,8 @@
                     style="@style/fresco_rect"
                     android:layout_width="120dp"
                     android:layout_height="120dp"
-                    android:layout_marginLeft="15dp" />
+                    android:layout_marginLeft="15dp"
+                    tools:background="@mipmap/ic_launcher" />
             </FrameLayout>
         </ScrollView>
     </LinearLayout>

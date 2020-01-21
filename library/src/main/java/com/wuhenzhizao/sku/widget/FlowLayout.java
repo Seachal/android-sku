@@ -12,6 +12,10 @@ import com.wuhenzhizao.sku.R;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ *
+ */
 public class FlowLayout extends ViewGroup {
     private static final String LOG_TAG = FlowLayout.class.getSimpleName();
 
@@ -94,12 +98,21 @@ public class FlowLayout extends ViewGroup {
         int heightSize = MeasureSpec.getSize(heightMeasureSpec);
         int heightMode = MeasureSpec.getMode(heightMeasureSpec);
 
+//        水平间隔
         mHorizontalSpacingForRow.clear();
+
+//        行的子 view 数量列表
         mChildNumForRow.clear();
+
+//      行的高度列表
         mHeightForRow.clear();
 
-        int measuredHeight = 0, measuredWidth = 0, childCount = getChildCount();
-        int rowWidth = 0, maxChildHeightInRow = 0, childNumInRow = 0;
+        int measuredHeight = 0,
+                measuredWidth = 0,
+                childCount = getChildCount();
+        int rowWidth = 0,
+                maxChildHeightInRow = 0,
+                childNumInRow = 0;
         int rowSize = widthSize - getPaddingLeft() - getPaddingRight();
         boolean allowFlow = widthMode != MeasureSpec.UNSPECIFIED && mFlow;
         int childSpacing = mChildSpacing == SPACING_AUTO && widthMode == MeasureSpec.UNSPECIFIED
@@ -112,8 +125,11 @@ public class FlowLayout extends ViewGroup {
                 continue;
             }
 
+//
             LayoutParams childParams = child.getLayoutParams();
-            int horizontalMargin = 0, verticalMargin = 0;
+            int horizontalMargin = 0,
+                    verticalMargin = 0;
+//           sca: 用于判断子view 是否有 margin
             if (childParams instanceof MarginLayoutParams) {
                 measureChildWithMargins(child, widthMeasureSpec, 0, heightMeasureSpec, measuredHeight);
                 MarginLayoutParams marginParams = (MarginLayoutParams) childParams;
@@ -123,8 +139,12 @@ public class FlowLayout extends ViewGroup {
                 measureChild(child, widthMeasureSpec, heightMeasureSpec);
             }
 
+
+//           sca:
             int childWidth = child.getMeasuredWidth() + horizontalMargin;
+//           sca:
             int childHeight = child.getMeasuredHeight() + verticalMargin;
+//           sca:
             if (allowFlow && rowWidth + childWidth > rowSize) { // Need flow to next row
                 // Save parameters for current row
                 mHorizontalSpacingForRow.add(

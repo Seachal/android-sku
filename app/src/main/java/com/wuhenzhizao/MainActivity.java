@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
     private void showSkuDialog() {
         if (dialog == null) {
             dialog = new ProductSkuDialog(this);
+//            sca: 传入数据源，
             dialog.setData(Product.get(this), new ProductSkuDialog.Callback() {
                 @Override
                 public void onAdded(Sku sku, int quantity) {

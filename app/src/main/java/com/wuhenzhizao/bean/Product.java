@@ -27,6 +27,7 @@ public class Product {
     private List<String> medias;
     private List<Sku> skus;
 
+
     public static Product get(Context context) {
         String json = context.getString(R.string.product);
         return new Gson().fromJson(json, new TypeToken<Product>() {

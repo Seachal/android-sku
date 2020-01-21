@@ -158,6 +158,12 @@ public class SkuItemLayout extends LinearLayout {
         return attributeNameTv.getText().toString();
     }
 
+
+    /**
+     *  sca:
+     * @param position
+     * @param view
+     */
     private void onSkuItemClicked(int position, SkuItemView view) {
         boolean selected = !view.isSelected();
         SkuAttribute attribute = new SkuAttribute();
