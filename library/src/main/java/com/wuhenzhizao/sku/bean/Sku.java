@@ -7,13 +7,16 @@ import java.util.List;
 
 /**
  * Created by wuhenzhizao on 2017/3/6.
+ *  sca: stockQuantity 库存量
  *
  *
  */
 public class Sku implements Parcelable {
     private String id;
     private String mainImage;
+//    库存量
     private int stockQuantity;
+//    是否库存
     private boolean inStock;
     private long originPrice;
     private long sellingPrice;

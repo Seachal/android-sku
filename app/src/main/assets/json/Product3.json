@@ -1,0 +1,107 @@
+{
+  "id": "101",
+  "name": "羊毛呢2017秋冬装新款女装韩版棉服宽松棉袄处理短款棉衣外套反季",
+  "status": "1",
+  "mainImage": "https://img.alicdn.com/bao/uploaded/i3/1754317604/TB1H1DViesAV1JjSZFsXXadZXXa_!!0-item_pic.jpg_b.jpg",
+  "sellingPrice": 26800,
+  "originPrice": 36800,
+  "currencyUnit": "¥",
+  "measurementUnit": "件",
+  "saleQuantity": 1335,
+  "stockQuantity": 10924,
+  "medias": [
+    "https://img.alicdn.com/imgextra/i3/1754317604/TB2UkuShvBNTKJjy1zdXXaScpXa_!!1754317604.jpg",
+    "https://img.alicdn.com/imgextra/i4/1754317604/TB2JNyYhvBNTKJjSszeXXcu2VXa_!!1754317604.jpg",
+    "https://img.alicdn.com/imgextra/i4/1754317604/TB2ZFJxiaagSKJjy0FhXXcrbFXa_!!1754317604.jpg",
+    "https://img.alicdn.com/imgextra/i3/1754317604/TB2.ohtijihSKJjy0FfXXbGzFXa_!!1754317604.jpg"
+  ],
+  "skus": [
+    {
+      "id": "1",
+      "itemId": "101",
+      "mainImage": "https://img.alicdn.com/imgextra/i3/1754317604/TB2UkuShvBNTKJjy1zdXXaScpXa_!!1754317604.jpg",
+      "originPrice": 36800,
+      "sellingPrice": 26800,
+      "stockQuantity": 21,
+      "attributes": [
+        {
+          "key": "颜色",
+          "value": "粉色"
+        },
+        {
+          "key": "尺码",
+          "value": "S"
+        },
+        {
+          "key": "服务",
+          "value": "保险"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "itemId": "101",
+      "mainImage": "https://img.alicdn.com/imgextra/i3/1754317604/TB2UkuShvBNTKJjy1zdXXaScpXa_!!1754317604.jpg",
+      "originPrice": 36800,
+      "sellingPrice": 26800,
+      "stockQuantity": 17,
+      "attributes": [
+        {
+          "key": "颜色",
+          "value": "黑色"
+        },
+        {
+          "key": "尺码",
+          "value": "M"
+        },
+        {
+          "key": "服务",
+          "value": "一键代发"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "itemId": "101",
+      "mainImage": "https://img.alicdn.com/imgextra/i3/1754317604/TB2UkuShvBNTKJjy1zdXXaScpXa_!!1754317604.jpg",
+      "originPrice": 36800,
+      "sellingPrice": 26800,
+      "stockQuantity": 10,
+      "attributes": [
+        {
+          "key": "颜色",
+          "value": "黑色"
+        },
+        {
+          "key": "尺码",
+          "value": "S"
+        },
+        {
+          "key": "服务",
+          "value": "保险"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "itemId": "101",
+      "mainImage": "https://img.alicdn.com/imgextra/i3/1754317604/TB2UkuShvBNTKJjy1zdXXaScpXa_!!1754317604.jpg",
+      "originPrice": 36800,
+      "sellingPrice": 26800,
+      "stockQuantity": 10,
+      "attributes": [
+        {
+          "key": "颜色",
+          "value": "粉色"
+        },
+        {
+          "key": "尺码",
+          "value": "M"
+        },
+        {
+          "key": "服务",
+          "value": "一键代发"
+        }]
+    }]
+}
+

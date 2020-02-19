@@ -95,6 +95,7 @@ public class SkuSelectScrollView extends SkuMaxHeightScrollView implements SkuIt
         // 一个sku时，默认选中
         if (skuList.size() == 1) {
             selectedAttributeList.clear();
+//            sca: 例如只有 1 条 sku 时，得到这个 sku, 然后取出他的属性列表，并且默认选中，selectedAttributeList 记录的选中的状态。
             for (SkuAttribute attribute : this.skuList.get(0).getAttributes()) {
                 selectedAttributeList.add(new SkuAttribute(attribute.getKey(), attribute.getValue()));
             }
@@ -153,6 +154,10 @@ public class SkuSelectScrollView extends SkuMaxHeightScrollView implements SkuIt
         }
     }
 
+
+    /**
+     * 先把单属性 的搞清楚了，多属性的就好立即了。
+     */
     private void optionLayoutEnableStatusSingleProperty() {
         SkuItemLayout itemLayout = (SkuItemLayout) skuContainerLayout.getChildAt(0);
         // 遍历sku列表
@@ -167,25 +172,42 @@ public class SkuSelectScrollView extends SkuMaxHeightScrollView implements SkuIt
         }
     }
 
+/*
+ * SkuSelectScrollView    scroll ,
+  * skuContainerLayout   属性容器
+    * SkuItemLayout   i
+       * TextView 颜色
+       * FlowLayout 灰色 、黑色
+         * SkuItemView
+    */
+    //    sca： 多属性，
     private void optionLayoutEnableStatusMultipleProperties() {
+//    sca: 遍历属性布局， 例如颜色、尺码。
         for (int i = 0; i < skuContainerLayout.getChildCount(); i++) {
+//
             SkuItemLayout itemLayout = (SkuItemLayout) skuContainerLayout.getChildAt(i);
-            // 遍历sku列表
+            // 遍历sku列表 , sca:
             for (int j = 0; j < skuList.size(); j++) {
                 // 属性值是否可点击flag
                 boolean flag = false;
                 Sku sku = skuList.get(j);
+//                sca: 属性信息
                 List<SkuAttribute> attributeBeanList = sku.getAttributes();
                 // 遍历选中信息列表
                 for (int k = 0; k < selectedAttributeList.size(); k++) {
                     // i = k，跳过当前属性，避免多次设置是否可点击
-                    if (i == k) continue;
+                    if (i == k) {
+                        continue;
+                    }
                     // 选中信息为空，则说明未选中，无法判断是否有不可点击的情形，跳过
-                    if ("".equals(selectedAttributeList.get(k).getValue())) continue;
+                    if ("".equals(selectedAttributeList.get(k).getValue())) {
+                        continue;
+                    }
                     // 选中信息列表中不包含当前sku的属性，则sku组合不存在，设置为不可点击
-                    // 库存为0，设置为不可点击
+                    // 或 库存为0，设置为不可点击
                     if (!selectedAttributeList.get(k).getValue().equals(attributeBeanList.get(k).getValue())
                             || sku.getStockQuantity() == 0) {
+//                        sca: 不可点击
                         flag = true;
                         break;
                     }
@@ -280,6 +302,7 @@ public class SkuSelectScrollView extends SkuMaxHeightScrollView implements SkuIt
         optionLayoutEnableStatus();
         // 设置选中状态
         optionLayoutSelectStatus();
+
     }
 
     /**

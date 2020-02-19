@@ -12,6 +12,8 @@ import com.wuhenzhizao.sku.utils.ScreenUtils;
 
 /**
  * Created by wuhenzhizao on 2017/7/31.
+ *
+ *
  */
 
 public class SkuItemView extends TextView {
@@ -33,12 +35,16 @@ public class SkuItemView extends TextView {
     }
 
     private void init(Context context) {
+//        sca: 设置 选中状态背景颜色，不可点击背景颜色，默认背景颜色。
         setBackgroundResource(R.drawable.sku_item_selector);
+
+//        sca: 是否可点击后的 flag,文字颜色。
         setTextColor(getResources().getColorStateList(R.color.sku_item_text_selector));
         setTextSize(TypedValue.COMPLEX_UNIT_DIP, 11);
         setSingleLine();
         setGravity(Gravity.CENTER);
         setPadding(ScreenUtils.dp2PxInt(context, 10), 0, ScreenUtils.dp2PxInt(context, 10), 0);
+
 
         setMinWidth(ScreenUtils.dp2PxInt(context, 45));
         setMaxWidth(ScreenUtils.dp2PxInt(context, 200));

@@ -199,6 +199,7 @@ public class ProductSkuDialog extends Dialog {
     }
 
     private void updateSkuData() {
+//        sca: 把 Product.json 中的 sku 数据，传递给SkuSelectScrollView-> SkuItemLayout.
         binding.scrollSkuList.setSkuList(product.getSkus());
 
 //        sca:获取第一个

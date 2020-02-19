@@ -124,6 +124,8 @@ public class SkuItemLayout extends LinearLayout {
     /**
      * 设置指定属性为选中状态
      *
+     *
+     *
      * @param selectValue
      */
     public void optionItemViewSelectStatus(SkuAttribute selectValue) {
@@ -136,10 +138,13 @@ public class SkuItemLayout extends LinearLayout {
         }
     }
 
+
+
     /**
      * 当前属性集合是否有选中项
      * @return
      */
+    @Override
     public boolean isSelected() {
         for (int i = 0; i < attributeValueLayout.getChildCount(); i++) {
             SkuItemView itemView = (SkuItemView) attributeValueLayout.getChildAt(i);

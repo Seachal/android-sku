@@ -2,11 +2,11 @@ package com.wuhenzhizao.bean;
 
 import android.content.Context;
 
-import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.wuhenzhizao.R;
 import com.wuhenzhizao.sku.bean.Sku;
+import com.wuhenzhizao.utils.LocalJsonResolutionUtils;
 
+import java.lang.reflect.Type;
 import java.util.List;
 
 /**
@@ -29,9 +29,19 @@ public class Product {
 
 
     public static Product get(Context context) {
-        String json = context.getString(R.string.product);
-        return new Gson().fromJson(json, new TypeToken<Product>() {
-        }.getType());
+//        String json = context.getString(R.string.product);
+//        return new Gson().fromJson(json, new TypeToken<Product>() {
+//        }.getType());
+
+
+        //得到本地json文本内容
+        String fileName = "json/Product2.json";
+        String jsonStr = LocalJsonResolutionUtils.getJson(context, fileName);
+        //转换为对象
+        Type type = new TypeToken<Product>() {
+        }.getType();
+        Product bean = LocalJsonResolutionUtils.JsonToObject(jsonStr, type);
+        return bean;
     }
 
     public String getId() {

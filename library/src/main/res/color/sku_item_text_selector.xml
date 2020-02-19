@@ -3,4 +3,10 @@
     <item android:color="#ffffff" android:state_selected="true" />
     <item android:color="#bbbbbb" android:state_enabled="false" />
     <item android:color="#666666" />
+
+    <!--
+    * ffffff  白色
+    * bbbbbb  浅灰色     不可点击，改为浅灰色
+    * 666666  深灰色    默认颜色
+    -->
 </selector>
