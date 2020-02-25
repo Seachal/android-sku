@@ -51,6 +51,24 @@
           "value": "S"
         }
       ]
+    },
+    {
+      "id": "2",
+      "itemId": "101",
+      "mainImage": "https://img.alicdn.com/imgextra/i3/1754317604/TB2UkuShvBNTKJjy1zdXXaScpXa_!!1754317604.jpg",
+      "originPrice": 36800,
+      "sellingPrice": 26800,
+      "stockQuantity": 17,
+      "attributes": [
+        {
+          "key": "颜色",
+          "value": "粉色"
+        },
+        {
+          "key": "尺码",
+          "value": "M"
+        }
+      ]
     }
     ]
 }

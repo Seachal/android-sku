@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SkuSelector</string>
+    <string name="app_name">android-sku_SkuSelector</string>
 
     <string name="comm_price_format">¥ %s</string>
 
